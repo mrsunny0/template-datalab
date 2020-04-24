@@ -1,0 +1,7 @@
+# IDEs
+.spyproject
+.vscode
+.*-workspace
+
+# python
+__pycache__
